@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,MainActivity2.class));
+                startActivity(new Intent(MainActivity.this, SecondaryActivity.class));
             }
         });
 
