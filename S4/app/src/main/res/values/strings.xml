@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="phoneH">Phone Number</string>
+    <string name="emailH">Email Address</string>
+    <string name="passwH">Password</string>
+    <string name="top">Please fill the following fields</string>
+    <string name="switchT">Allow notifications</string>
+    <string name="dateBtn">Select Date</string>
+    <string name="sendBtn">Send</string>
+</resources>
