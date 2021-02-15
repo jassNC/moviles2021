@@ -27,15 +27,22 @@ class CustomAdapter(private val myList:ArrayList<Footage>,
     }
 
     class ViewHolder(itemView : View,
-                     private val movieSelectionListener: MovieSelectionListener) : RecyclerView.ViewHolder(itemView), View.OnClickListener{
+                     private val movieSelectionListener: MovieSelectionListener) : RecyclerView.ViewHolder(itemView), View.OnClickListener,
+                                                                                                                    View.OnLongClickListener{
 
         init{
             itemView.setOnClickListener(this)
+            itemView.setOnLongClickListener(this)
         }
 
 
         override fun onClick(v: View?) {
             movieSelectionListener.onMovieSelected(adapterPosition)
+        }
+
+        override fun onLongClick(v: View?): Boolean {
+            movieSelectionListener.onMovieSelectedForDelete(adapterPosition)
+            return true
         }
 
 
@@ -59,10 +66,4 @@ class CustomAdapter(private val myList:ArrayList<Footage>,
 
         }
     }
-
-
-
-
-
-
 }

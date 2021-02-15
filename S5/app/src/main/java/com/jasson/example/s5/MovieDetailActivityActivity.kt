@@ -1,5 +1,7 @@
 package com.jasson.example.s5
 
+import android.content.Intent
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.content.ContextCompat
@@ -19,5 +21,18 @@ class MovieDetailActivityActivity : AppCompatActivity() {
         genreD.text = movie.genre
         absD.text = movie.abstract
         typeD.text = movie.type
+
+        urlBtn.setOnClickListener(){
+            openURL(movie.url)
+        }
+    }
+
+    fun openURL(url: String){
+        val intent = Intent(Intent.ACTION_VIEW).apply {
+            data = Uri.parse(url)
+        }
+        if(intent.resolveActivity(packageManager)!=null){
+            startActivity(intent)
+        }
     }
 }
