@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Lista de Metrajes</string>
+    <string name="addBtn">Agregar Metraje</string>
+    <string name="seeIMDBbtn">Ver Página de IMDB</string>
+    <string name="movie">Película</string>
+    <string name="tvSeries">Serie de TV</string>
+    <string name="alien">La tripulación de la nave espacial Nostromo atiende una señal de auxilio y, sin saberlo, sube a bordo una letal forma de vida extraterrestre.</string>
+    <string name="ash">Su trama gira en torno a un grupo de jóvenes que decide pasar unos días en una cabaña abandonada en el bosque, siendo su estancia interrumpida por el ataque de un espíritu que fue despertado por los personajes.</string>
+    <string name="boys">Cuando los superhéroes abusan de sus superpoderes en lugar de usarlos para el bien, The Boys se embarcan en una búsqueda heroica para exponer secretos.</string>
+    <string name="crow">Un cantante de rock es asesinado, y regresa de la muerte para vengarse de los hombres que lo atacaron a él y a su novia.</string>
+    <string name="elm_street">Jóvenes que comparten pesadillas similares en una institución se unen para librarse de la influencia de Freddy Krueger.</string>
+    <string name="endgame">Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.</string>
+    <string name="fourth_kind">Desde los años sesenta, un desproporcionado número de personas han sido reportadas como desaparecidas alrededor de Nome, Alaska. A pesar de las investigaciones del FBI, la verdad detrás de estas desapariciones nunca ha sido descubiertas. La psicóloga Abigail Tyler podría estar cerca de resolver estos casos misteriosos, ya que mientras atiende a sus pacientes, ella descubre evidencias de secuestros extraterrestres.</string>
+    <string name="friday">Chris, Rick y un grupo de amigos llegan al campamento del Lago Cristal. A pesar de una pelea con una banda de motociclistas locales, pasan una semana agradable, hasta que Jason comienza la matanza.</string>
+    <string name="hunters">Los cazadores de nazis descubren cientos de altos funcionarios nazis en la ciudad de Nueva York en 1977, quienes conspiran para crear un Cuarto Reich en los Estados Unidos. Los cazadores buscan llevar a los nazis ante la justicia y frustrar su plan.</string>
+    <string name="it">Varios niños de una pequeña ciudad del estado de Maine se alían para combatir a una entidad diabólica que adopta la forma de un payaso y desde hace mucho tiempo emerge cada 27 años para saciarse de sangre infantil.</string>
+    <string name="mando">Las aventuras de Mando, un pistolero solitario y cazarrecompensas que se abre paso a través de las fronteras más remotas de la galaxia, lejos de la jurisdicción de la Nueva República.</string>
+    <string name="monedas">El padre Vergara, exorcista, boxeador y exconvicto que fue exiliado a un remoto pueblo de España, solicita la ayuda del alcalde y de un veterinario cuando comienzan a producirse una serie de fenómenos paranormales.</string>
+    <string name="outsider">La investigación por el asesinato de un chico se torna oscura cuando una entidad sobrenatural hace que el equipo a cargo se cuestione sus propias creencias.</string>
+    <string name="terror">La tripulación de un barco de la Marina Real emprende una expedición para hallar una ruta que permita cruzar por el paso del Noroeste, pero lo que encuentran es un depredador monstruoso.</string>
+    <string name="watchmen">En los Estados Unidos de una realidad alternativa, los superhéroes son tratados como delincuentes.</string>
+    <string name="wick">John Wick, interpretado por Keanu Reeves (Matrix, Pactar con el diablo) es un antiguo asesino a sueldo que observa impasible cómo un ladrón roba su coche, un Ford Mustang del 69, y mata al perro que su mujer le regaló. Wick entonces persigue al delincuente y descubre que su padre es un jefe mafioso de Nueva York y que ha puesto una alta recompensa a cambio de su cabeza. Casualmente la persona contratada para darle caza es un sicario, encarnado por Willem Dafoe (Spiderman), un gran amigo y ex compañero suyo, que le recomendó abandonar la peligrosa profesión después de la muerte de su mujer.</string>
+    <string name="xmen">Los X-Men unen fuerzas con sus versiones más jóvenes con el fin de cambiar el pasado y salvar su futuro y el de la humanidad.</string>
+    <string name="alienTitle">Alien</string>
+    <string name="ashTitle">Posesion demoniaca</string>
+    <string name="boysTitle">Los Pibes</string>
+    <string name="crowTitle">El Cuervo</string>
+    <string name="elmTitle">Pesadilla en la calle Elm 3</string>
+    <string name="endgameTitle">Vengadores Endgame</string>
+    <string name="fourthTitle">El cuarto tipo</string>
+    <string name="fridayTitle">Viernes trece 3</string>
+    <string name="huntersTitle">Hunters</string>
+    <string name="itTitle">Eso</string>
+    <string name="mandoTitle">El Mandaloriano</string>
+    <string name="monedasTitle">30 Monedas</string>
+    <string name="outsiderTitle">El Forastero</string>
+    <string name="terrorTitle">El Terror</string>
+    <string name="watchmenTitle">Wathmen</string>
+    <string name="wickTitle">John Wick</string>
+    <string name="xmenTitle">X-Men días del futuro pasado</string>
+    <string name="horror">horror</string>
+    <string name="action">acción</string>
+    <string name="fantasy">fantasia</string>
+    <string name="crime">crimen</string>
+    <string name="drama">drama</string>
+    <string name="thriller">thriller</string>
+    <string name="comedy">comedia</string>
+    <string name="adventure">aventura</string>
+    <string name="scifi">ciencia ficción</string>
+
+
+</resources>
