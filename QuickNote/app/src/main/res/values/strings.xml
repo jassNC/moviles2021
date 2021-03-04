@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuickNote</string>
+    <string name="titleHint">Note Title</string>
+    <string name="contentHint">Note Body</string>
+    <string name="hasPriority">Has priority</string>
+    <string name="noteAdded">Note added successfully</string>
+    <string name="failedConnection">Failed to connect to database</string>
+    <string name="failedRetrieval">Failed to retrieve notes</string>
+    <string name="deleteSuccess">Note deleted successfully</string>
+    <string name="modifiedSuccess">Note modified successfully</string>
+    <string name="emptySpace">Your note must have a title and a body</string>
+</resources>
